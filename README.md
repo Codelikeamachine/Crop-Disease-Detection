@@ -46,12 +46,12 @@ References
 TensorFlow Documentation
 Kaggle
 Streamlit Documentation
-Author
-Armaan Saraswat
-Pragya
-Akash Raj
-Aadya Gupta
-Nikhil
+Author: 
+Armaan Saraswat, 
+Pragya, 
+Akash Raj, 
+Aadya Gupta, 
+Nikhil.
 
 License
 This project is licensed under the GPL License.
